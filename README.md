@@ -1,4 +1,4 @@
-# mining-athlete-data
+# Análise Exploratória e Prática com Técnicas de Mineração de Dados
 
 Notebooks de prática na disciplina de mineração de dados utilizando Python.
 
